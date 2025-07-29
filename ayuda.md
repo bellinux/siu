@@ -12,7 +12,7 @@ Según el tipo de ayuda que necesites, hay diferentes opciones disponibles.
 
 ## Dudas sobre el curso
 
-Para consultas sobre el curso, utiliza el [repositorio de dudas](https://github.com/bellinux/iv/issues). Un ayudante o el profesor responderá tu pregunta.
+Para consultas sobre el curso, utiliza el [repositorio de dudas](https://github.com/bellinux/siu/issues). Un ayudante o el profesor responderá tu pregunta.
 
 ## Problemas personales
 
