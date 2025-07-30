@@ -5,7 +5,7 @@ nav_order: 1
 
 # Sistemas Interactivos Ubicuos - 2025-II
 
-En esta sección encontrarás los materiales utilizados en las clases del curso, incluyendo presentaciones, apuntes, código y más.
+En esta sección encontrarás los materiales utilizados en las clases del curso, incluyendo presentaciones, apuntes y más.
 {: .fs-6 .fw-300 }
 
 ---
