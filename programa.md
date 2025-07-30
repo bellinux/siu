@@ -47,7 +47,7 @@ Al finalizar el curso, los estudiantes podrán:
 - **Presentación de Investigación (20%)**: Exposición grupal sobre un tema actual relacionado con sistemas interactivos ubicuos, fundamentado en artículos recientes de conferencias o revistas especializadas (por ejemplo, CHI, IMWUT). Se espera una articulación clara con los contenidos del curso y una reflexión crítica.
 - **Participación en Actividades de Aula (20%)**: A lo largo del semestre se realizarán actividades prácticas en clase, y se asignará una nota de participación basada en el número de actividades en las que el estudiante haya participado. Para este componente, el puntaje total asignado será de 12 puntos, pero la nota máxima considerada para aprobar con el nivel máximo de participación será de 10 puntos. De este modo, se concede un margen de 2 puntos para favorecer a aquellos estudiantes que, por algún motivo, no puedan asistir a todas las actividades.
 
-[Calcula tu nota](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Calcula tu nota](https://docs.google.com/spreadsheets/d/1ZElujqbnNkoIwYmAdWfd0wb6nt1Q1kfZXXw2g06e1wU/edit){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 ## USO DE LLM
