@@ -26,7 +26,7 @@ Al finalizar el curso, los estudiantes podrán:
 - Tecnologías Habilitadoras: Sensores y actuadores clave, IoT, Conectividad (WiFi, Bluetooth, NFC).
 - Técnicas Destacadas: Eye Tracking (Smooth Pursuit), NLP básico, EM-Sense, Electrick.
 - Diseño y Metodología: Diseño Centrado en Usuario, Diseño Universal, Prototipado (Lo/Hi-Fi, Físico).
-- Prototipado Rápido de Sistemas Ubicuos: Arquitectura Web, Componentes, Integración Físico-Digital.
+- Prototipado Rápido de Sistemas Ubicuos: Arquitectura Web, Sensores/Actuadores, Integración Físico-Digital.
 - Evaluación: Métodos Cuantitativos/Cualitativos, Pruebas con Usuarios.
 - Consideraciones Críticas: Ergonomía Ubicua y Ética.
 
