@@ -7,21 +7,21 @@ nav_order: 2
 
 ## I. DESCRIPCIÓN DEL CURSO
 
-Este curso introduce los Sistemas Interactivos Ubicuos, desde los fundamentos de HCI hasta los paradigmas de interacción emergentes (tangible, gestual). Se exploran las tecnologías clave (sensores, IoT, conectividad) y se pone énfasis práctico en el Diseño Centrado en el Usuario y el prototipado rápido. Se abordan también la evaluación de sistemas y las consideraciones éticas y de seguridad.
+Este curso explora el diseño, prototipado y evaluación de Sistemas Interactivos Ubicuos, donde la computación se integra de forma invisible y proactiva en nuestros entornos y actividades diarias. Se estudian los principios de diseño para la interacción en contextos del mundo real y se exploran los paradigmas de interacción emergentes (tangible, gestual, sin contacto). Se analizan las tecnologías clave (sensores, actuadores, IoT, conectividad) y se pone un énfasis práctico en el diseño de sistemas contextuales y el prototipado rápido físico-digital. Finalmente, se abordan la evaluación de sistemas ubicuos y las consideraciones éticas y ergonómicas críticas.
 
 ## II. RESULTADOS DE APRENDIZAJE
 
 Al finalizar el curso, los estudiantes podrán:
-- Aplicar principios de HCI y UbiComp al diseño de sistemas interactivos.
+- Aplicar principios de diseño para sistemas contextuales, proactivos y multimodales. 
 - Identificar y utilizar paradigmas de interacción avanzados y tecnologías habilitadoras.
-- Diseñar y prototipar sistemas ubicuos funcionales.
-- Evaluar la usabilidad y experiencia de usuario de sistemas interactivos.
+- Diseñar y prototipar sistemas ubicuos funcionales, integrando hardware y software.
+- Evaluar la interacción en contextos reales, considerando la fluidez, la experiencia del usuario y el impacto en la vida cotidiana.
 - Analizar las implicaciones éticas y ergonómicas de las tecnologías ubicuas.
 
 
 ## III. CONTENIDOS ESENCIALES
 
-- Fundamentos: Introducción a UbiComp, Principios de HCI (Usabilidad, Heurísticas, Gestalt, Feedback).
+- Fundamentos: Introducción a UbiComp, Principios de Diseño para la Interacción Ubicua.
 - Paradigmas de Interacción Avanzados: Tangible, Sin Contacto, Gestual.
 - Tecnologías Habilitadoras: Sensores y actuadores clave, IoT, Conectividad (WiFi, Bluetooth, NFC).
 - Técnicas Destacadas: Eye Tracking (Smooth Pursuit), NLP básico, EM-Sense, Electrick.
@@ -33,10 +33,10 @@ Al finalizar el curso, los estudiantes podrán:
 
 ## IV. ESTRATEGIAS METODOLÓGICAS
 
-- Clases expositivas y de discusión enfocadas en conceptos clave.
-- Clases prácticas de prototipado rápido.
-- Aprendizaje basado en proyecto iterativo.
-- Análisis de casos prácticos relevantes.
+- Clases expositivas y de discusión enfocadas en marcos conceptuales de UbiComp.
+- Clases prácticas de prototipado rápido físico-digital.
+- Aprendizaje basado en proyecto iterativo de un sistema ubicuo.
+- Análisis de casos prácticos relevantes de sistemas ubicuos comerciales y de investigación.
 - Ayudantías de apoyo técnico.
 
 
